@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nishantprakhar72
--  I’m interested in CAD, 3D Modeling.
--  I’m currently learning SolidWorks, ANSYS
+-  I’m interested in CAD, 3D Modeling, Designing...
 - 📫 nishantprakhar9876@gmail.com
 
 <!---
